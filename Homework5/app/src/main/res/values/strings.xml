@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_details">Details</string>
+    <string name="action_more_music">More Music</string>
+    <string name="action_events">Events</string>
+
+    <string-array name="grid_buttons">
+        <item>Button 1</item>
+        <item>Button 2</item>
+        <item>Button 3</item>
+    </string-array>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ian.homework5.DetailActivity">
+    <item android:id="@+id/action_details" android:title="@string/action_details"
+        android:orderInCategory="100" android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_more_music" android:title="@string/action_more_music"
+        android:orderInCategory="100" android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_events" android:title="@string/action_events"
+        android:orderInCategory="100" android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_events" android:title="@string/action_events"
+        android:orderInCategory="100" android:showAsAction="ifRoom" />
+</menu>
